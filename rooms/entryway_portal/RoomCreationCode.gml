@@ -1,0 +1,1 @@
+global.roommessage = "A PIZZA PORTAL IN THE SPIRE"

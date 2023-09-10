@@ -1,0 +1,26 @@
+// --- PIZZA TOWER TOGETHER CREDITS --- //
+
+- Project Head & Server Owner -
+Soapychu
+
+- Main Programmers -
+Soapychu
+loypoll
+RadixComet
+MeliaDev
+
+- Sprite Art -
+Psyke
+Tictorian
+Milkshake
+Soapychu
+GuyTheMind - Custom key config icon
+BowtieBoy - Gustavo crouch falling sprite
+
+- Music -
+PaperKitty
+loypoll
+RodMod - Music from Sugary Spire
+
+- Special Thanks -
+Morris - Emotional Support
